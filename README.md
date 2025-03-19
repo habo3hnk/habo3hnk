@@ -9,7 +9,6 @@
 <h1 align="center">𝙷𝙴𝚈 𝚃𝙷𝙴𝚁𝙴</h1>
 
 
----
 ### 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 
 
 I'm a backend developer who prefers complex challenges and simple solutions.  
