@@ -8,6 +8,7 @@
 
 <h1 align="center">𝙷𝙴𝚈 𝚃𝙷𝙴𝚁𝙴</h1>
 
+
 ### 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 
 
 I'm a backend developer who prefers complex challenges and simple solutions.  
@@ -16,12 +17,6 @@ I'm a backend developer who prefers complex challenges and simple solutions.
 - 📚 I'm currently learning Rust.  
 - ⚡ Interested in automation and more.  
 - 🔧 Solve tasks so that next time, the code does it for me.
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habo3hnk&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habo3hnk&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="Languages Graph" />
-</div>
 
 
 ### 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨  
@@ -36,4 +31,13 @@ I use different technologies depending on the task, without sticking to just one
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+</div>
+
+
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=habo3hnk&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habo3hnk&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="Languages Graph" />
 </div>
