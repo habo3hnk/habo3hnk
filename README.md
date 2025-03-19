@@ -23,6 +23,9 @@ I'm a backend developer who prefers complex challenges and simple solutions.
 
 I use different technologies depending on the task, without sticking to just one. Mainly writing in Python and Node.js, learning Rust.  
 
+
+### 𝙈𝙮 𝙨𝙩𝙖𝙩𝙨
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
