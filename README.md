@@ -23,9 +23,6 @@ I'm a backend developer who prefers complex challenges and simple solutions.
 
 I use different technologies depending on the task, without sticking to just one. Mainly writing in Python and Node.js, learning Rust.  
 
-
-### 𝙈𝙮 𝙨𝙩𝙖𝙩𝙨
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
@@ -37,8 +34,7 @@ I use different technologies depending on the task, without sticking to just one
 </div>
 
 
-
-
+### 𝙈𝙮 𝙨𝙩𝙖𝙩𝙨
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=habo3hnk&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="Stats Graph" />
