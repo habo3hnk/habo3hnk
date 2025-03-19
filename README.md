@@ -9,7 +9,7 @@
 <h1 align="center">𝙷𝙴𝚈 𝚃𝙷𝙴𝚁𝙴</h1>
 
 
-
+---
 ### 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 
 
 I'm a backend developer who prefers complex challenges and simple solutions.  
@@ -17,10 +17,10 @@ I'm a backend developer who prefers complex challenges and simple solutions.
 - 🔭 I’m working as a backend developer.  
 - 📚 I'm currently learning Rust.  
 - ⚡ Interested in automation and more.  
-- 🔧 Solve tasks so that next time, the code does it for me.
+- 🛠 Solve tasks so that next time, the code does it for me.
 
 
-
+---
 ### 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨  
 
 I use different technologies depending on the task, without sticking to just one. Mainly writing in Python and Node.js, learning Rust.  
@@ -36,7 +36,7 @@ I use different technologies depending on the task, without sticking to just one
 </div>
 
 
-
+---
 ### 𝙈𝙮 𝙨𝙩𝙖𝙩𝙨
 
 <div align="center">
