@@ -45,3 +45,6 @@
 </div>
 
 ###
+
+![Streak Graph](https://streak-stats.demolab.com?user=habo3hnk&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3)
+
