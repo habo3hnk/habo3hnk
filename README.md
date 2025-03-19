@@ -10,4 +10,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habo3hnk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habo3hnk&layout=compact&theme=radical)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@habo3hnk)
+[![wakatime](https://wakatime.com/badge/user/4e575ee4-e300-492b-a828-76e4593cb6db.svg)](https://wakatime.com/@4e575ee4-e300-492b-a828-76e4593cb6db)
