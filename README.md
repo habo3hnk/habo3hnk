@@ -6,4 +6,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habo3hnk&layout=compact&theme=radical)
 
-📡 Contact: [📨 Telegram](https://t.me/your_username)
+📡 Contact: [Telegram](https://t.me/your_username)
