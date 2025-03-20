@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=habo3hnk.habo3hnk&" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=habo3hnk&layout=compact&theme=dark" />
+  <a href="https://wakatime.com/@4e575ee4-e300-492b-a828-76e4593cb6db"><img src="https://wakatime.com/badge/user/4e575ee4-e300-492b-a828-76e4593cb6db.svg" alt="Total time coded since Mar 19 2025" /></a>
   
 </div>
 
