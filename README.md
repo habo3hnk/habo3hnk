@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=habo3hnk.habo3hnk&" />
   <a href="https://wakatime.com/@4e575ee4-e300-492b-a828-76e4593cb6db"><img src="https://wakatime.com/badge/user/4e575ee4-e300-492b-a828-76e4593cb6db.svg" alt="Total time coded since Mar 19 2025" /></a>
-  <img src="https://wakatime.com/badge/user/habo3hnk.svg" />  
 </div>
 
 <h1 align="center">𝙷𝙴𝚈 𝚃𝙷𝙴𝚁𝙴</h1>
