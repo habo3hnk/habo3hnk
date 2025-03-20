@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=habo3hnk.habo3hnk&" />
-  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME)](https://wakatime.com/@USERNAME)
-
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=habo3hnk&layout=compact&theme=dark" />
+  
 </div>
 
 <h1 align="center">𝙷𝙴𝚈 𝚃𝙷𝙴𝚁𝙴</h1>
