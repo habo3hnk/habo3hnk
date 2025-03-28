@@ -14,7 +14,6 @@
 I'm a backend developer who prefers complex challenges and simple solutions.  
 
 - 🔭 I’m working as a backend developer.  
-- 📚 I'm currently learning Rust.  
 - ⚡ Interested in automation and more.  
 - 🛠 Solve tasks so that next time, the code does it for me.
 
