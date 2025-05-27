@@ -29,12 +29,3 @@ I use different technologies depending on the task, without sticking to just one
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 </div>
 
-
----
-### 𝙈𝙮 𝙨𝙩𝙖𝙩𝙨
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habo3hnk&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habo3hnk&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="Languages Graph" />
-</div>
-
